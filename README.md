@@ -12,3 +12,14 @@ A basic password generator built with HTML, CSS and JavaScript that helps users 
 
 ## Live demo
 https://password-generator-5fde68.netlify.app/
+
+## Usage
+- Click **"Generate Password"** to create a new password
+- Check the box for alphanumeric passwords
+
+## Key learnings
+- Start application from scratch
+- Implementing checkbox functionality
+
+## Acknowledgements
+- Built as part of my learning JavaScript journey
